@@ -1,2 +1,2 @@
 # isb.dpa.toolbox.public
-Setup in verschiedensten Versionen für die isb.dpa.toolbox
+Setup zur Einrichtung der isb.dpa.toolbox
